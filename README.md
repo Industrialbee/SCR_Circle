@@ -11,6 +11,7 @@ The layout prioritises connections between stations over geographical accuracy, 
 
 ## Why
 Stepford County Railway is a Roblox game where players drive, guard, and dispatch trains in a fictional network.
+
 After seeing circular transport visualisations (e.g. Samsung’s 2024 campaign), a family member asked whether something similar could be created for SCR.
 I couldn’t find an existing Python package that handled this type of layout, so this became a small project to experiment with generating one.
 
