@@ -1,10 +1,8 @@
 # SCR Circular Map
-
 Developing a circle-style transport map for the Stepford County Railway (SCR) game.
 
 ## Licence
 This project is licensed under the MIT License.
-
 You’re free to use, modify, and share it. Attribution is appreciated.
 
 ## Overview
@@ -13,10 +11,8 @@ The layout prioritises connections between stations over geographical accuracy, 
 
 ## Why
 Stepford County Railway is a Roblox game where players drive, guard, and dispatch trains in a fictional network.
-
 After seeing circular transport visualisations (e.g. Samsung’s 2024 campaign), a family member asked whether something similar could be created for SCR.
-
-After seeing the circular TfL-style visualisation (e.g. Samsung’s 2024 campaign), a family member asked whether something similar could be created for SCR. I couldn’t find an existing Python package that handled this type of layout, so this became a small project to experiment with generating one.
+I couldn’t find an existing Python package that handled this type of layout, so this became a small project to experiment with generating one.
 
 ## What it does
 The project has two stages:
@@ -40,7 +36,6 @@ Stage 1) 1) operators: operator name, livery colour (hex value)
 4) station_pairs: operator, from, to 
 
 The visualisation stage is still under development. 
-
 
 ## Running
 Assumes project structure includes `data/` and `out/` folders.
