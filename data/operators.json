@@ -1,0 +1,22 @@
+[
+  {
+    "Operator": "AirLink",
+    "Colour": "#ec7d33"
+  },
+  {
+    "Operator": "Metro",
+    "Colour": "#ee4044"
+  },
+  {
+    "Operator": "Stepford Connect",
+    "Colour": "#0096ee"
+  },
+  {
+    "Operator": "Stepford Express",
+    "Colour": "#ff0080"
+  },
+  {
+    "Operator": "Waterline",
+    "Colour": "#34495E"
+  }
+]
